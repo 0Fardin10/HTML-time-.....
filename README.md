@@ -65,5 +65,4 @@ GitHub: [@0Fardin10](https://github.com/0Fardin10)
 ---
 
 ## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+N/A
