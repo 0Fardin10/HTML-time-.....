@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+      font-family: "Open Sans", sans-serif;
+}
+/* common style */
+.common-btn{
+    background-color: #fd6e0a;
+    padding: 10px 20px;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 22px;
+    color:white ;
+    border: none;
+}
+nav{
+  display: flex;
+  justify-content: space-between; 
+  max-width: 1200px;
+  margin: auto;
+  padding: 8px 0;
+}
+.logo{
+    font-weight: bold;
+    font-size: 32px; 
+}
+.logo-r{
+    color: #fd6e0a;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 5px ;
+    align-items: center;
+}
+ul li a{
+    text-decoration: none;
+}
