@@ -1,13 +1,16 @@
+'use client';
 import Link from "next/link";
-import React from "react";
-const links = <> 
+
+const Navbar = () => {
+  const links = <>
+
 <li><Link href="/">Home</Link></li>
 <li><Link href="/dashboard">Dashboard</Link></li>
 <li><Link href="/post">Post</Link></li>
 <li><Link href="/product">Product</Link></li> 
 <li><Link href="/books">Books</Link></li>
- </>
-const Navbar = () => {  
+  </>;
+
     return (
    <div className="navbar bg-base-100 shadow-sm">
   <div className="navbar-start">
