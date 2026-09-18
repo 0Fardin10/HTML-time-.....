@@ -4,7 +4,8 @@ const links = <>
 <li><Link href="/">Home</Link></li>
 <li><Link href="/dashboard">Dashboard</Link></li>
 <li><Link href="/post">Post</Link></li>
-<li><Link href="/product">Product</Link></li>  
+<li><Link href="/product">Product</Link></li> 
+<li><Link href="/books">Books</Link></li>
  </>
 const Navbar = () => {  
     return (

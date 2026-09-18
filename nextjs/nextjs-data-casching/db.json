@@ -54,5 +54,67 @@
       "description": "Monitors heart rate, sleep quality, and daily steps with built-in sports modes and smartphone notifications.",
       "tags": ["wearables", "fitness", "smartwatch"]
     }
+  ],
+  "books": [
+    {
+      "id": "book_107",
+      "title": "Linux Kernel Development",
+      "author": "Robert Love",
+      "genre": "Operating Systems",
+      "price": 45.00,
+      "inStock": true,
+      "description": "A comprehensive guide to the design and implementation of the Linux kernel, covering process management, memory allocation, and kernel data structures.",
+      "tags": ["linux", "operating-systems", "c"]
+    },
+    {
+      "id": "book_108",
+      "title": "Effective Modern C++",
+      "author": "Scott Meyers",
+      "genre": "Software Engineering",
+      "price": 39.99,
+      "inStock": true,
+      "description": "Guidelines and best practices for writing clean, efficient, and modern C++ code using C++11 and C++14 features like auto, smart pointers, and move semantics.",
+      "tags": ["cpp", "programming", "software-design"]
+    },
+    {
+      "id": "book_109",
+      "title": "Competitive Programming 4",
+      "author": "Steven Halim & Felix Halim",
+      "genre": "Competitive Programming",
+      "price": 32.00,
+      "inStock": true,
+      "description": "Essential algorithms and data structures tailored for competitive programming contests like ICPC and IOI, complete with problem-solving strategies.",
+      "tags": ["competitive-programming", "algorithms", "icpc"]
+    },
+    {
+      "id": "book_110",
+      "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+      "author": "Aurélien Géron",
+      "genre": "Artificial Intelligence",
+      "price": 49.99,
+      "inStock": false,
+      "description": "A practical guide to building intelligent systems using intuitive tools, covering concrete examples from simple linear regression to deep neural networks.",
+      "tags": ["machine-learning", "python", "ai"]
+    },
+    {
+      "id": "book_111",
+      "title": "The Art of Game Design: A Book of Lenses",
+      "author": "Jesse Schell",
+      "genre": "Game Development",
+      "price": 41.50,
+      "inStock": true,
+      "description": "Explores the fundamental principles of game design through various perspectives, covering mechanics, narrative, and user experience in interactive entertainment.",
+      "tags": ["game-dev", "design", "gaming"]
+    },
+    {
+      "id": "book_112",
+      "title": "Strength Training Anatomy",
+      "author": "Frédéric Delavier",
+      "genre": "Fitness & Health",
+      "price": 21.95,
+      "inStock": true,
+      "description": "Detailed anatomical illustrations highlighting specific muscle groups during resistance training exercises, dumbbell workouts, and bodyweight routines.",
+      "tags": ["fitness", "strength-training", "anatomy"]
+    }
   ]
 }
